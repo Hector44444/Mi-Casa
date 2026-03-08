@@ -1,0 +1,18 @@
+{
+  "name": "Mi Casa - Gastos del Hogar",
+  "short_name": "Mi Casa",
+  "description": "Gestión de gastos del hogar",
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FDF6EE",
+  "theme_color": "#C0580A",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%23C0580A'/><text y='.9em' font-size='80' x='10'>🏡</text></svg>",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
